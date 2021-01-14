@@ -1,0 +1,22 @@
+{
+  "name": "xgg2rqv7l",
+  "description": null,
+  "version": "0.0.26",
+  "dependencies": {
+    "demopackge": "^1.0.4",
+    "onsenui": "2.6.0",
+    "react": "16.0.0",
+    "react-devtools": "^4.10.1",
+    "react-dom": "16.0.0",
+    "react-onsenui": "1.6.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
